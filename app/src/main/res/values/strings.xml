@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DISTPLAY</string>
+    <string name="Button_name">登录</string>
+    <string name="TextView_name">姓名</string>
+    <string name="EditText_hint">请输入姓名</string>
+    <string name="TextView2_name">密码</string>
+    <string name="EditText_hint2">请输入密码</string>
+</resources>
