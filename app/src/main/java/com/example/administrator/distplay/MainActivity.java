@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.text);
     }
 
-    URL url=new URL("http://www.baidu.com"+)
+    URL url=new URL("http://www.baidu.com"+"")
 
 }
 
